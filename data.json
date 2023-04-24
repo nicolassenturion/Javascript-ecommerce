@@ -1,0 +1,94 @@
+[
+    {
+        "id":34000,
+        "nombre": "Macbook Air M1", 
+        "categoria": "Notebook", 
+        "precio": "500", 
+        "stock": "10", 
+        "image":"./assets/img/Macbook Air m1.png",
+        "disponibilidad": false
+    },
+    {
+        "id":35890,
+        "nombre": "Asus VivoBook PRO 15", 
+        "categoria": "Notebook", 
+        "precio": "700", 
+        "stock": "45", 
+        "image":"./assets/img/Asus vivobook.png",
+        "disponibilidad": true
+    },
+    {
+        "id":25696,
+        "nombre": "Lenovo Ideapad 3", 
+        "categoria": "Notebook", 
+        "precio": "500", 
+        "stock": "8", 
+        "image":"./assets/img/Lenovo Idea pad 3.png",
+        "disponibilidad": true
+    },
+    {
+        "id":87413,
+        "nombre": "Dell Inspiron 3501", 
+        "categoria": "Notebook", 
+        "precio": "500", 
+        "stock": "32", 
+        "image":"./assets/img/Dell inspiron 3.png",
+        "disponibilidad": false
+    }  
+    ,
+    {
+        "id":15895,
+        "nombre": "Asus VivoBook PRO 15", 
+        "categoria": "Notebook", 
+        "precio": "700", 
+        "stock": "14", 
+        "image":"./assets/img/Asus vivobook.png",
+        "disponibilidad": true
+    },
+    {
+        "id":12686,
+        "nombre": "Lenovo Ideapad 3", 
+        "categoria": "Notebook", 
+        "precio": "500", 
+        "stock": "15", 
+        "image":"./assets/img/Lenovo Idea pad 3.png",
+        "disponibilidad": true
+    },
+    {
+        "id":97213,
+        "nombre": "Dell Inspiron 3501", 
+        "categoria": "Notebook", 
+        "precio": "500", 
+        "stock": "21", 
+        "image":"./assets/img/Dell inspiron 3.png",
+        "disponibilidad": false
+    },
+    {
+        "id":34158,
+        "nombre": "Macbook Air M1", 
+        "categoria": "Notebook", 
+        "precio": "500", 
+        "stock": "5", 
+        "image":"./assets/img/Macbook Air m1.png",
+        "disponibilidad": false
+    },
+    {
+        "id":65684,
+        "nombre": "Lenovo Ideapad 3", 
+        "categoria": "Notebook", 
+        "precio": "500", 
+        "stock": "50", 
+        "image":"./assets/img/Lenovo Idea pad 3.png",
+        "disponibilidad": true
+    },
+    {
+        "id":87155,
+        "nombre": "Dell Inspiron 3501", 
+        "categoria": "Notebook", 
+        "precio": "500", 
+        "stock": "12", 
+        "image":"./assets/img/Dell inspiron 3.png",
+        "disponibilidad": false
+    }
+
+]
